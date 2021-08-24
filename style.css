@@ -1,0 +1,107 @@
+  .fixed-width{
+      width: 940px;
+      margin: 0 auto;
+  }
+  img{
+      max-width: 100%;
+  }
+  /* header */
+            header{
+                margin-bottom: -7px;
+            }
+            /* logo */
+.logo{
+    background: #24af34;
+    padding: 14px 28px;
+    border-radius: 0 34px 34px 0;
+    position: absolute;
+    left: 0;
+}
+.logo img{
+    width: 174px;
+}
+
+        /* menu */
+.nav-item{
+    padding-right: 9px;
+}
+.nav-link{
+    line-height: 47px;
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+}
+.nav-link:hover{
+    color: #24af34;
+}
+
+/* button */
+.btn a{
+    text-decoration: none;
+    color: white;
+    background: #24af34;
+    padding: 12px 21px;
+    border-radius: 26px;
+}
+/* language */
+.language-option p{
+    margin-top: 28px;
+    font-weight: 400;
+}
+
+
+/* *******************
+Banner
+**************** */
+.banner{
+    background-image: url(https://images.ctfassets.net/7nr1etht02oh/4on8ADjWdb13D4YejDszdb/d6c7e13f663be2efedcbfd35a9493f92/aboutus_img-1920x400.jpg?w=1600&h=333&q=100);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 300px;
+    padding-bottom: 23px;
+}
+.banner h2{
+    font-size: 43px;
+    text-shadow: 1px 1px black;
+}
+
+
+/* *******************
+our mission
+********************* */
+.Our-mission{
+    background: #24af34;
+}
+.our-mission h2{
+    font-size: 36px;
+}
+
+
+/* ************************
+our value
+******************** */
+.our-value h1{
+    font-weight: 600;
+}
+.value-image img{
+    width: 344px;
+   margin-top: 100px;
+}
+/* ***************
+over-viwe
+******************* */
+.Over-viwe{
+    background: #f1faff;
+}
+.Over-viwe h1{
+    font-size: 40px;
+}
+.Over-viwe p{
+    font-size: 23px;
+}
+/* 
+******
+working-idea************* */
+.w-image{
+    width: 200px;
+}
